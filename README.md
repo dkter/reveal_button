@@ -1,11 +1,11 @@
 reveal_button
---
+==
 
 A cool HTML5 button attempting to mimic Windows's Fluent Design buttons.
 
 
 Disclaimer
-==
+--
 
 I made this as a fun project that looks cool, but the performance of CSS
 gradients isn't nearly as polished as whatever Windows uses for compositing.
@@ -17,7 +17,7 @@ I probably shouldn't have to say this, but web devs will always be web devs.
 
 
 Usage
-==
+--
 
 First of all, please don't.
 
@@ -29,7 +29,7 @@ But if you really have to:
 
 
 License
-==
+--
 The PLEASE DO NOT USE THIS PUBLIC LICENSE
 by David Teresi, who is not at all qualified to write legal text
 
