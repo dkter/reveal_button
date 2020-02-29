@@ -3,6 +3,8 @@ reveal_button
 
 A cool HTML5 button attempting to mimic Windows's Fluent Design buttons.
 
+[Try it out!](https://dkter.github.io/reveal_button/demo.html)
+
 
 Disclaimer
 --
