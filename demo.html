@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reveal Button</title>
+    <link rel="stylesheet" type="text/css" href="reveal/reveal.css">
+    <script src="reveal/reveal.js"></script>
+    <style>
+        body {
+            background: linear-gradient(#090006, #010008);
+            color: white;
+        }
+
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #content {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .button-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <div class="button-grid">
+            <button class="reveal">
+                Test
+            </button>
+            <button class="reveal">
+                Test 2
+            </button>
+            <button class="reveal" style="grid-column: 3 / span 3">
+                Long button aaaaaaaaaaaaaaaaaaaaaa
+            </button>
+            <button class="reveal" style="height: 100px; grid-column: 1 / span 5">
+                Huge button
+            </button>
+        </div>
+    </div>
+</body>
+</html>
