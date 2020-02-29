@@ -30,6 +30,7 @@ But if you really have to:
 
 License
 --
+```
 The PLEASE DO NOT USE THIS PUBLIC LICENSE
 by David Teresi, who is not at all qualified to write legal text
 
@@ -54,3 +55,4 @@ SOFTWARE.
 
 David Teresi hereby reserves the right to yell at any person who uses or
 distributes the Software in any way.
+```
